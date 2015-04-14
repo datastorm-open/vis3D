@@ -1,4 +1,4 @@
-# visNetwork
+# vis3D
 R package, using vis.js library for 3D visualization
 
 ```` 
