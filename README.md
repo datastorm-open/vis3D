@@ -2,7 +2,7 @@
 R package, using vis.js library for 3D visualization
 
 ```` 
-devtools::install_github("bthieurmel/vis3D")
+devtools::install_github("DataKnowledge/vis3D")
 
 require(vis3D)
 ?vis3D
